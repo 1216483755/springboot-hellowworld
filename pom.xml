@@ -5,7 +5,7 @@
 	<artifactId>springboot-helloworld</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
-	<!-- 必须要引入继承spring-boot-starter-parent 帮我实现了很多jar的依赖 管理 不需要些dedededdee jar版本。 -->
+	<!-- 必须要引入继承spring-boot-starter-parent 帮我实现了很多jar的依赖 管理 不需要些的 jar版本。 -->
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
